@@ -24,7 +24,7 @@ I'm a passionate **programmer, data scientist, and sociologist,** using a unique
 
 **2024 Viz'D Data Visualization Competition:** Won 2nd place with impactful Tableau visualizations of complex datasets.
 
-**QMSS Hackathon 2024:** Directed a team in Reddit web scraping and sentiment analysis on immigration rhetoric
+**QMSS Hackathon 2024:** Directed a team in Reddit web scraping and sentiment analysis on immigration rhetoric.
 
 **Intranet Redesign:** Improved usability and website navigation efficiency for employees through a data-driven UX approach.
 
