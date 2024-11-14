@@ -20,7 +20,7 @@ I'm a passionate **programmer, data scientist, and sociologist,** using a unique
 
 **Eleckey Backend Development:** Developing a Python-based interface for a C library API to simplify and secure license key management for manufacturing applications.
 
-**LLM Augmentation:** Collaborating on design and developlment of an LLM app using LangChain, embeddings, and RAG for task automation.
+**LLM Augmentation:** Collaborating on design and development of a LLM app using LangChain, embeddings, and RAG for task automation.
 
 **2024 Viz'D Data Visualization Competition:** Won 2nd place with impactful Tableau visualizations of complex datasets.
 
