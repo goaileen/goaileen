@@ -1,7 +1,7 @@
 ## Hello! 👋  Welcome to my GitHub profile!
 
 
-I'm a passionate **programmer, data scientist, and sociologist** with a unique blend of skills in backend development, machine learning, and user-centric design & research! I blend **data-driven metholodiges with human-centered design and sociological insights**, aiming to build impactful, yet equitable, solutions for real world challenges. I look forward to using the power of **technology, society and data** to address complex problems in order to empower communities.
+I'm a passionate **programmer, data scientist, and sociologist,** using a unique blend of skills in backend development, machine learning, and user-centric design & research to address complex problems in order to empower communities.
 
 
 **🔧 Skills & Tools:**
