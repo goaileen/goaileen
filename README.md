@@ -16,7 +16,7 @@ I'm a passionate **programmer, data scientist, and sociologist,** using a unique
 **Statistical Analysis:** A/B testing, t-tests, correlation studies
 
 
-### **🌟 Featured Projects:**
+### **🌟 Achievements & Projects:**
 
 **Eleckey Backend Development:** Developing a Python-based interface for a C library API to simplify and secure license key management for manufacturing applications.
 
