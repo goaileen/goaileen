@@ -4,26 +4,34 @@
 I'm a passionate **programmer, data scientist, and sociologist,** using a unique blend of skills in backend development, machine learning, and user-centric design & research to address complex problems in order to empower communities.
 
 
-**🔧 Skills & Tools:**
+
+### **🔧 Skills & Tools:**
+
 **Languages & Frameworks:** Python (pandas, scikit-learn, PyTorch), C++, R, SQL, Django, LangChain, Docker
+
 **Visualization:** Tableau, matplotlib, seaborn, Figma
-**Machine Learning: **Regression, NLP, Clustering, Gradient Descent, SVM, LASSO, Boosting
+
+**Machine Learning:** Regression, NLP, Clustering, Gradient Descent, SVM, LASSO, Boosting
+
 **Statistical Analysis:** A/B testing, t-tests, correlation studies
 
 
-**🌟 Featured Projects:**
+### **🌟 Featured Projects:**
+
 **Eleckey Backend Development:** Developing a Python-based interface for a C library API to simplify and secure license key management for manufacturing applications.
-**LLM Augmentation:** Enhanced NLP with LangChain, embeddings, and RAG for task automation.
-**QMSS 2024 Viz'D Data Visualization Competition:** Won 2nd place with impactful Tableau visualizations of complex datasets.
+
+**LLM Augmentation:** Collaborating on design and developlment of an LLM app using LangChain, embeddings, and RAG for task automation.
+
+**2024 Viz'D Data Visualization Competition:** Won 2nd place with impactful Tableau visualizations of complex datasets.
+
 **QMSS Hackathon 2024:** Directed a team in Reddit web scraping and sentiment analysis on immigration rhetoric
-Intranet Redesign: Improved usability and navigation efficiency for 15+ users through a data-driven UX approach.
+
+**Intranet Redesign:** Improved usability and website navigation efficiency for employees through a data-driven UX approach.
 
 
-**🌍 About Me:**
-My passions lie deep in using data and technology to address societal challenges while placing people at the forefront of my analysis and work. I greatly value multidisciplinary teams, adoring to highlight diverse backgrounds in creating innovative solutions.
 
-
-Feel free to explore my repositories or reach out to talk about how lovely **chihuahuas** are! 🐶
+### **🐶**
+Feel free to explore my repositories or reach out to talk about how lovely **chihuahuas** are!
 
 
 <!--
